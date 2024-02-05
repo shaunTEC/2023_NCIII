@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Acitvity1/Acitvity1.iml" filepath="$PROJECT_DIR$/Acitvity1/Acitvity1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10.iml" filepath="$PROJECT_DIR$/Activity10/Activity10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10_1/Activity10_1.iml" filepath="$PROJECT_DIR$/Activity10/Activity10_1/Activity10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10_2/Activity10_2.iml" filepath="$PROJECT_DIR$/Activity10/Activity10_2/Activity10_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10_3/Activity10_3.iml" filepath="$PROJECT_DIR$/Activity10/Activity10_3/Activity10_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10_4/Activity10_4.iml" filepath="$PROJECT_DIR$/Activity10/Activity10_4/Activity10_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity10/Activity10_5/Activity10_5.iml" filepath="$PROJECT_DIR$/Activity10/Activity10_5/Activity10_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11.iml" filepath="$PROJECT_DIR$/Activity11/Activity11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11_1/Activity11_1.iml" filepath="$PROJECT_DIR$/Activity11/Activity11_1/Activity11_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11_2/Activity11_2.iml" filepath="$PROJECT_DIR$/Activity11/Activity11_2/Activity11_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11_3/Activity11_3.iml" filepath="$PROJECT_DIR$/Activity11/Activity11_3/Activity11_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11_4/Activity11_4.iml" filepath="$PROJECT_DIR$/Activity11/Activity11_4/Activity11_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity11/Activity11_5/Activity11_5.iml" filepath="$PROJECT_DIR$/Activity11/Activity11_5/Activity11_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity2/Activity2.iml" filepath="$PROJECT_DIR$/Activity2/Activity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity3/Activity3.iml" filepath="$PROJECT_DIR$/Activity3/Activity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity4/Activity4.iml" filepath="$PROJECT_DIR$/Activity4/Activity4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity5/Activity5.iml" filepath="$PROJECT_DIR$/Activity5/Activity5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity6/Activity6.iml" filepath="$PROJECT_DIR$/Activity6/Activity6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity7/Activity7.iml" filepath="$PROJECT_DIR$/Activity7/Activity7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity8/Activity8.iml" filepath="$PROJECT_DIR$/Activity8/Activity8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity9/Activity9.iml" filepath="$PROJECT_DIR$/Activity9/Activity9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaActivities.iml" filepath="$PROJECT_DIR$/JavaActivities.iml" />
+    </modules>
+  </component>
+</project>
